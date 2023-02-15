@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T23:34:04.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DmkEiJ_AN4OHZCoTGWWm" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T13:10:56.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dbWPElyElhmlkLrnBGWf" version="20.8.20" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="794" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -43,9 +43,6 @@
         <mxCell id="XvS-wE3XNmEQleu6Ucjk-8" value="desarrollo-seguro" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XvS-wE3XNmEQleu6Ucjk-9" value="desarrollo-seguro" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="320" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="XvS-wE3XNmEQleu6Ucjk-10" value="despliegue-infrastructura" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="400" width="220" height="60" as="geometry" />
         </mxCell>
@@ -68,7 +65,7 @@
           <mxGeometry x="390" y="480" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XvS-wE3XNmEQleu6Ucjk-17" value="qa" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="480" width="130" height="60" as="geometry" />
+          <mxGeometry x="630" y="320" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XvS-wE3XNmEQleu6Ucjk-19" value="recursos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="620" width="130" height="60" as="geometry" />
@@ -81,6 +78,18 @@
         </mxCell>
         <mxCell id="XvS-wE3XNmEQleu6Ucjk-22" value="calendar" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="700" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XvS-wE3XNmEQleu6Ucjk-23" value="documental" style="shape=folder;tabWidth=80;tabHeight=20;tabPosition=left;strokeWidth=1;html=1;whiteSpace=wrap;align=center;fontSize=12;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="806" width="480" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="XvS-wE3XNmEQleu6Ucjk-24" value="gestion-requerimientos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="850" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XvS-wE3XNmEQleu6Ucjk-25" value="home-page-gd" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="850" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XvS-wE3XNmEQleu6Ucjk-26" value="making-a-template" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="850" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
