@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T14:57:37.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="48wAK0I2iRI7spPl50Po" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T15:06:44.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QfSLG4PXJB0bk6m5pzUu" version="20.8.20" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="794" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="da8Bszw_18QyjZAj_Vt4-2" value="plataforma-pipelines" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="80" y="196" width="600" height="354" as="geometry" />
+          <mxGeometry x="80" y="196" width="600" height="430" as="geometry" />
         </mxCell>
         <mxCell id="XvS-wE3XNmEQleu6Ucjk-1" value="zos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="240" width="130" height="60" as="geometry" />
@@ -41,7 +41,16 @@
           <mxGeometry x="390" y="400" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VQQ8A4-PkoQuJ65v_nMt-13" value="plataforma-iac" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="480" width="580" height="60" as="geometry" />
+          <mxGeometry x="90" y="556" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQQ8A4-PkoQuJ65v_nMt-14" value="angular" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQQ8A4-PkoQuJ65v_nMt-15" value="software-no-versionado" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="478" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQQ8A4-PkoQuJ65v_nMt-16" value="pipeline-master" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="478" width="278" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
