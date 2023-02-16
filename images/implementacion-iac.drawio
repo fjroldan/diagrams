@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T13:01:18.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="eJfgRwQt959iRxUAsRkr" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T14:10:05.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oxk4t201Yd6ny_t1dJBy" version="20.8.20" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="794" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -153,6 +153,24 @@
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-61" value="bavv-gi-cl-jenkins-pipelines-fachada" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="466" y="2078" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-62" value="bavv-gi-op-plantillas-ansibe" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="129" y="2257" width="330" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-63" value="bavv-gi-cl-plantillas-ansibe" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="466" y="2257" width="330" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-64" value="configuracion" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="2300" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-65" value="manteniemiento" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="2300" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-66" value="configuracion" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="497" y="2300" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-67" value="manteniemiento" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="644" y="2300" width="131" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
