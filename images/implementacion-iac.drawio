@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T11:59:16.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EiBWESKG083-ZCBQOv0C" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T13:01:18.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="eJfgRwQt959iRxUAsRkr" version="20.8.20" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="794" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,40 +119,40 @@
           <mxGeometry x="500" y="1280" width="134" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-48" value="bavv-gi-cl-terraform-azure-configurarfapp" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1400" width="330" height="50" as="geometry" />
+          <mxGeometry x="129" y="1727" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-49" value="bavv-gi-cl-terraform-azure-configurarfrontdoor" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="487" y="1400" width="330" height="50" as="geometry" />
+          <mxGeometry x="466" y="1727" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-50" value="bavv-gi-cl-terraform-azure-configurarkeyvault" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1470" width="330" height="50" as="geometry" />
+          <mxGeometry x="129" y="1797" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-51" value="bavv-gi-cl-terraform-azure-configurarapim" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="487" y="1470" width="330" height="50" as="geometry" />
+          <mxGeometry x="466" y="1797" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-52" value="bavv-gi-cl-terraform-azure-configurargateway" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1540" width="330" height="50" as="geometry" />
+          <mxGeometry x="129" y="1867" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-53" value="bavv-gi-cl-terraform-azure-configurardns" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="487" y="1540" width="330" height="50" as="geometry" />
+          <mxGeometry x="466" y="1867" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-54" value="bavv-gi-cl-terraform-azure-configurardatadog" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1610" width="330" height="50" as="geometry" />
+          <mxGeometry x="129" y="1937" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-55" value="bavv-gi-cl-terraform-azure-configurarredis" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="487" y="1610" width="330" height="50" as="geometry" />
+          <mxGeometry x="466" y="1937" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-56" value="bavv-gi-cl-terraform-azure-configurarsql" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1680" width="330" height="50" as="geometry" />
+          <mxGeometry x="129" y="2007" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-57" value="bavv-gi-cl-terraform-azure-configurarstorage" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="487" y="1680" width="330" height="50" as="geometry" />
+          <mxGeometry x="466" y="2007" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-60" value="bavv-gi-op-jenkins-pipelines-fachada" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1800" width="330" height="50" as="geometry" />
+          <mxGeometry x="129" y="2078" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="awrq8H0JJblZVTlvvqXh-61" value="bavv-gi-cl-jenkins-pipelines-fachada" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="487" y="1800" width="330" height="50" as="geometry" />
+          <mxGeometry x="466" y="2078" width="330" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
