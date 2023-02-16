@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-02-16T11:19:17.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Ly3t6sjbJCl2hEF2aWsl" version="20.8.20" type="github">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="794" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BwKcDBISeO8rM-5g9kwS-1" value="bavv-gi-op-terraform-vmware-cluster" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="150" y="70" width="667" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="BwKcDBISeO8rM-5g9kwS-2" value="Zos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="162" y="361" width="212" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-1" value="addon" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="178" y="97" width="625" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-2" value="module-host-group" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="137" width="134" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-4" value="module-affinity-rule" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="137" width="134" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-5" value="module-security" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="137" width="134" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-6" value="module-port-group" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="137" width="134" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-7" value="module-virtual-switch" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="210" width="134" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-8" value="module-network" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="134" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-9" value="module-storage" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="134" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-10" value="module-content" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="134" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
