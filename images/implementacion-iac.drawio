@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T17:37:06.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BDBHfakGjVQbzS7ca0i_" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T18:14:55.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ApQFXK65_-nx83imaklm" version="21.0.2" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="794" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -7,164 +7,170 @@
         <mxCell id="BwKcDBISeO8rM-5g9kwS-1" value="bavv-gi-op-terraform-vmware-crearcluster" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="150" y="40" width="667" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-1" value="addon" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-1" value="addon" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="178" y="67" width="625" height="183" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-2" value="module-host-group" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-2" value="module-host-group" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="199" y="107" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-4" value="module-affinity-rule" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-4" value="module-affinity-rule" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="107" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-5" value="module-security" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-5" value="module-security" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="107" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-6" value="module-port-group" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-6" value="module-port-group" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="107" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-7" value="module-virtual-switch" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-7" value="module-virtual-switch" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="199" y="180" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-8" value="module-network" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-8" value="module-network" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="180" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-9" value="module-storage" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-9" value="module-storage" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="180" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-10" value="module-content" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-10" value="module-content" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="180" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-11" value="bavv-gi-op-terraform-vmware-crearvm" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-11" value="bavv-gi-op-terraform-vmware-crearvm" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="150" y="320" width="667" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-12" value="addon" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-12" value="addon" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="178" y="347" width="625" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-13" value="module-windows" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-13" value="module-windows" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="199" y="387" width="181" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-14" value="module-redhat" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-14" value="module-redhat" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="387" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-15" value="module-suse" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-15" value="module-suse" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="387" width="184" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-22" value="bavv-gi-op-terraform-vmware-crearvnic" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-22" value="bavv-gi-op-terraform-vmware-crearvnic" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="150" y="520" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-23" value="bavv-gi-op-terraform-vmware-crearespool" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-23" value="bavv-gi-op-terraform-vmware-crearespool" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="487" y="520" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-24" value="bavv-gi-op-terraform-vmware-crearhost" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-24" value="bavv-gi-op-terraform-vmware-crearhost" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="150" y="590" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-25" value="bavv-gi-op-terraform-vmware-crearha" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-25" value="bavv-gi-op-terraform-vmware-crearha" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="487" y="590" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-26" value="bavv-gi-op-terraform-vmware-creardrs" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-26" value="bavv-gi-op-terraform-vmware-creardrs" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="150" y="660" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-27" value="bavv-gi-op-terraform-vmware-creardmp" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-27" value="bavv-gi-op-terraform-vmware-creardmp" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="487" y="660" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-29" value="bavv-gi-cl-terraform-azure-crearvm" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-29" value="bavv-gi-cl-terraform-azure-crearvm" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="150" y="880" width="667" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-30" value="addon" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-30" value="addon" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="178" y="907" width="625" height="183" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-31" value="module-rg" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-31" value="module-rg" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="199" y="947" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-32" value="module-ns" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-32" value="module-ns" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="947" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-33" value="module-publicip" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-33" value="module-publicip" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="947" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-34" value="module-redhat" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-34" value="module-redhat" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="947" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-35" value="module-vnet" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-35" value="module-vnet" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="199" y="1020" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-36" value="module-windows" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-36" value="module-windows" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="1020" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-39" value="bavv-gi-cl-terraform-azure-crearaks" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-39" value="bavv-gi-cl-terraform-azure-crearaks" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="150" y="1140" width="667" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-40" value="addon" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-40" value="addon" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="178" y="1167" width="625" height="183" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-41" value="module-aad" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-41" value="module-aad" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="199" y="1207" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-42" value="module-svcon" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-42" value="module-svcon" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="1207" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-43" value="module-rbac" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-43" value="module-rbac" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1207" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-44" value="module-secrets" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-44" value="module-secrets" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="1207" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-45" value="module-namespace" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-45" value="module-namespace" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="199" y="1280" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-46" value="module-ingress" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-46" value="module-ingress" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="1280" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-47" value="module-dns" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-47" value="module-dns" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1280" width="134" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-48" value="bavv-gi-cl-terraform-azure-crearfapp" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-48" value="bavv-gi-cl-terraform-azure-crearfapp" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="129" y="1727" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-49" value="bavv-gi-cl-terraform-azure-crearfrontdoor" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-49" value="bavv-gi-cl-terraform-azure-crearfrontdoor" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="466" y="1727" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-50" value="bavv-gi-cl-terraform-azure-crearkeyvault" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-50" value="bavv-gi-cl-terraform-azure-crearkeyvault" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="129" y="1797" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-51" value="bavv-gi-cl-terraform-azure-crearapim" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-51" value="bavv-gi-cl-terraform-azure-crearapim" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="466" y="1797" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-52" value="bavv-gi-cl-terraform-azure-creargateway" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-52" value="bavv-gi-cl-terraform-azure-creargateway" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="129" y="1867" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-53" value="bavv-gi-cl-terraform-azure-creardns" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-53" value="bavv-gi-cl-terraform-azure-creardns" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="466" y="1867" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-54" value="bavv-gi-cl-terraform-azure-creardatadog" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-54" value="bavv-gi-cl-terraform-azure-creardatadog" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="129" y="1937" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-55" value="bavv-gi-cl-terraform-azure-crearredis" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-55" value="bavv-gi-cl-terraform-azure-crearredis" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="466" y="1937" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-56" value="bavv-gi-cl-terraform-azure-crearsql" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-56" value="bavv-gi-cl-terraform-azure-crearsql" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="129" y="2007" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-57" value="bavv-gi-cl-terraform-azure-crearstorage" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="awrq8H0JJblZVTlvvqXh-57" value="bavv-gi-cl-terraform-azure-crearstorage" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="466" y="2007" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-62" value="bavv-gi-op-plantillas-ansibe" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="129" y="2257" width="330" height="114" as="geometry" />
+        <mxCell id="awrq8H0JJblZVTlvvqXh-62" value="bavv-gi-op-ansibe-plantillas" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="129" y="2270" width="330" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-63" value="bavv-gi-cl-plantillas-ansibe" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="466" y="2257" width="330" height="114" as="geometry" />
+        <mxCell id="awrq8H0JJblZVTlvvqXh-63" value="bavv-gi-cl-ansibe-plantillas" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="466" y="2272" width="330" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-64" value="configuracion" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="161" y="2300" width="131" height="50" as="geometry" />
+        <mxCell id="UFElNhJIHivWJu88RMrl-2" value="vmware" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2319" width="299" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-65" value="manteniemiento" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="308" y="2300" width="131" height="50" as="geometry" />
+        <mxCell id="UFElNhJIHivWJu88RMrl-3" value="azure" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="486" y="2319" width="297" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-66" value="configuracion" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="497" y="2300" width="131" height="50" as="geometry" />
+        <mxCell id="awrq8H0JJblZVTlvvqXh-64" value="configuracion" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
+          <mxGeometry x="162" y="2359" width="131" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="awrq8H0JJblZVTlvvqXh-67" value="manteniemiento" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="644" y="2300" width="131" height="50" as="geometry" />
+        <mxCell id="awrq8H0JJblZVTlvvqXh-65" value="manteniemiento" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
+          <mxGeometry x="306" y="2360" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-66" value="configuracion" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
+          <mxGeometry x="497" y="2357" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="awrq8H0JJblZVTlvvqXh-67" value="manteniemiento" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
+          <mxGeometry x="644" y="2357" width="131" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
